@@ -10,10 +10,7 @@ Click Below:
 
 
 ### Requirements
-* Python3
-* OpenCV 
-* skimage.measure 
-* Numpy 
+* Python3| OpenCV | skimage.measure | Numpy 
 
 
 ### Installing term
